@@ -1,4 +1,4 @@
-## 💱 ByteBank
+## 💱 ByteBank Cotações
 
 O **ByteBank** é um painel de cotações de moedas com interface simples e moderna. O projeto apresenta um menu lateral, uma mensagem de boas-vindas no topo e gráficos com a **variação do dólar, euro e iene em relação ao real**, desde o momento do login. Utiliza **Web Workers** para requisições paralelas, garantindo uma **experiência fluida e responsiva**, mesmo com múltiplas tarefas em execução.
 
@@ -29,7 +29,13 @@ O ByteBank aplica conceitos avançados como **concorrência e paralelismo**, imp
 
 ## 🖼️ Visualização do Projeto
 
-Uma prévia das principais funcionalidades do **ByteBank**:
+Uma prévia das principais funcionalidades do **ByteBank Cotações**:
+
+**🌐 Acesse o Projeto Online**
+
+O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
+
+<a href="https://bytebank-cotacao.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
 **🏠 Página Inicial**
 
